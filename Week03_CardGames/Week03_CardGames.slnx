@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Week03_CardGames.vcxproj" Id="07994b67-cb75-40cb-9a62-c51e0fcd0d1a" />
+</Solution>
